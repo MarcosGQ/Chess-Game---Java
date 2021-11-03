@@ -1,0 +1,5 @@
+1- Instale o aplicativo Git Bash
+2- Entre na pasta 'bin' dentro da pasta 'Jogo de xadrez'
+3- Clique com o botão direito do mouse e escolha abrir o 'git bash here'
+4- Na tela desse aplicativo digite: java/application/Interface (nome do arquivo .java que contem o 'main')
+5- Para encerrar a aplicação do jogo, aperte Ctrl+C
